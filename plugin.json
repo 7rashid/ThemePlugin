@@ -1,8 +1,8 @@
 {
   "name"              :"Theme",
   "description"       :"Theme by Rashid Schamsani",
-  "namespace"         :"Plentymarkets Theme 11/2019",
+  "namespace"         :"Theme",
   "author"            :"Rashid Schamsani",
   "type"              :"theme",
-  "serviceProvider"   :"Theme\\Providers\\HelloWorldServiceProvider",
+  "serviceProvider"   :"Theme\\Providers\\ThemeServiceProvider",
 }
